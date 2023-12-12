@@ -1,0 +1,29 @@
+{
+  "questions": [
+    {
+      "type": "multiple_choice",
+      "text": "What is the capital of France?",
+      "options": [
+        "Berlin",
+        "Madrid",
+        "Paris",
+        "Rome"
+      ],
+      "correct_answer": "Paris"
+    },
+    {
+      "type": "short_answer",
+      "text": "What is the capital of Japan?",
+      "correct_answer": "Tokyo"
+    },
+    {
+      "type": "true_false",
+      "text": "The Earth is flat.",
+      "correct_answer": false
+    },
+    {
+      "type": "file_upload",
+      "text": "Upload a picture of a cat."
+    }
+  ]
+}
